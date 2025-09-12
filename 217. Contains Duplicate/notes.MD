@@ -1,0 +1,1 @@
+The use of sets in this problem is very nice. Just compare the lengths of the list that you are given and then check that with the length of the set corresponding to the list. If the lengths match up, all distinct values. If not, then you have some duplicate values.
