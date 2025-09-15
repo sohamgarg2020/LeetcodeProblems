@@ -1,0 +1,1 @@
+Just keep checking for the maximum area and keep increasing left pointer if right height is greater if not, then decrease right pointer. Keep checking max area and updating to variable. Really neat 2 pointer problem. Had lots of fun with this one.
