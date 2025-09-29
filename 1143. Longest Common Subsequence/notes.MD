@@ -4,3 +4,5 @@ Learned something about lru_cache(maxsize = None). Going to try and condense it 
 
 
 In code2.py I added memoization so its a good alternative to lru_cache
+
+In code3.py I added DP. Very interesting method to solve this problem. Took me a minute to understand how it worked but after I understood, I definitely got how to do it. Very very nice solution.
