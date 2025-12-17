@@ -1,0 +1,1 @@
+Pretty neat solution through taking the center value and then checking the values around it. Look at it where the palindrome has odd and even number of letters and then take the max and then return it after looping through the whole thing.
